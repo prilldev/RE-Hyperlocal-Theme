@@ -1,5 +1,7 @@
 === RE Hyperlocal Theme by BGRWeb.com ===
 
+<strong>Live Theme Demo: <a href="http://eralocal.bgrweb.com/">ERA Local by BGRWeb.com</a></strong>
+
 Github project link: https://github.com/prilldev/RE-Hyperlocal-Theme
 
 
