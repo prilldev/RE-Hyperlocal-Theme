@@ -1,6 +1,6 @@
 === RE Hyperlocal Theme by BGRWeb.com ===
 
-Github project link: https://github.com/prilldev/locallifetheme
+Github project link: https://github.com/prilldev/RE-Hyperlocal-Theme
 
 
 === Installation Instructions ===
@@ -12,5 +12,6 @@ Github project link: https://github.com/prilldev/locallifetheme
 
 
 === Theme Support ===
-Check out http://bgrweb.com/hyperlocal-theme/era for more details.
+
+Check out http://bgrweb.com/hyperlocal-theme/era for more details on this theme.
 Visit http://mywp.bgrweb.com/ for Managed WordPress hosting and paid support of this theme.
